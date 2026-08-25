@@ -74,7 +74,7 @@ Lulusan Sarjana Terapan Teknik Informatika dengan pengalaman komprehensif memban
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NafiulVega&hide_border=true&theme=dark&background=1A1A1A&ring=F97316&fire=F97316&currStreakLabel=F97316" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=NafiulVega&hide_border=true&theme=dark&background=1A1A1A&ring=F97316&fire=F97316&currStreakLabel=F97316" height="165"/>
 
 </div>
 
